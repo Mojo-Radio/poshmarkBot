@@ -15,7 +15,7 @@ Open the userInfo.txt and replace that info with your username and password for 
 
 Then run:
 ```
-python InstaBot.py
+python poshmarkBot.py
 ```
 
 ##Use
